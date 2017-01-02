@@ -24,5 +24,4 @@ phpMyAdmin
 
 ![alt tag](https://s28.postimg.org/fqht2zg5p/myadmin.png)
 
-![alt tag](https://s30.postimg.org/979108ikx/admin.png)
-
+![alt tag](https://s24.postimg.org/mkd4n3tdx/admin.png)
