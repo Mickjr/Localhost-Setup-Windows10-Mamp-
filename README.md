@@ -1,4 +1,4 @@
-# Localhost Setup Windows 10 & Mamp
+# Localhost Setup via Windows 10 & Mamp
 
 Setting up a local host environment with virtual host via Windows 10 and Mamp
 
