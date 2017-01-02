@@ -16,3 +16,7 @@ Atom
 
 ![alt tag](https://s30.postimg.org/3lh0b6cq9/atom.png)
 
+DBeaver
+
+![alt tag](https://s30.postimg.org/x5hm42co1/dbeaver.png)
+
