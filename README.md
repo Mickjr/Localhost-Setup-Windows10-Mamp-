@@ -18,11 +18,16 @@ or
 ![alt tag](https://s30.postimg.org/x5hm42co1/dbeaver.png)
 
 <pre>4. Open up C:\Windows\System32\drivers\etc\hosts in your IDE</pre>
-<pre>Add your host, i.e(127.0.0.1   htmltest.local)</pre>
+<pre>Add your host, example(127.0.0.1   htmltest.local)</pre>
 ![alt tag](https://s24.postimg.org/uv08c6qw5/hosts.png)
 
-<pre>5. Open up C:\Windows\System32\drivers\etc\hosts in your IDE</pre>
-<pre>Add your host, i.e(127.0.0.1   htmltest.local)</pre>
+<pre>5. Open up C:\MAMP\conf\apache\httpd.conf in your IDE</pre>
+<pre>Add your virtual host</pre>
+<pre><VirtualHost *:80>
+      DocumentRoot "C:/MAMP/htdocs/htmltest/"
+      ServerName htmltest.local
+      </VirtualHost>
+</pre>
 ![alt tag](https://s29.postimg.org/l0fz8e9kn/httpd.png)
 
 phpMyAdmin
