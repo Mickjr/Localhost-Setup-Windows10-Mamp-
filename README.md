@@ -18,9 +18,7 @@ or
 ![alt tag](https://s30.postimg.org/x5hm42co1/dbeaver.png)
 
 <pre>4. Open up C:\Windows\System32\drivers\etc\hosts in your IDE</pre>
-
-
-
+<pre>Add your host as seen below</pre>
 ![alt tag](https://s24.postimg.org/uv08c6qw5/hosts.png)
 
 local host environment with virtual host via Windows 10 and Mamp
