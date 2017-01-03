@@ -1,7 +1,7 @@
 # Localhost Setup via Windows 10 & Mamp
 
-<pre>1. Install an IDE i.e.(NetBeans, Visual Studio, Atom, and etc.)</pre>
-<a href"https://atom.io/">https://atom.io/</a>
+<pre>1. Install an IDE i.e.(NetBeans, Visual Studio, Atom, and etc.)
+<a href"https://atom.io/">https://atom.io/</a></pre>
 
 ![alt tag](https://s30.postimg.org/3lh0b6cq9/atom.png)
 
