@@ -23,14 +23,9 @@ or
 
 <pre>5. Open up C:\MAMP\conf\apache\httpd.conf in your IDE</pre>
 <pre>Add your virtual host</pre>
-<VirtualHost *:80>
-      DocumentRoot "C:/MAMP/htdocs/htmltest/"
-      ServerName htmltest.local
-</VirtualHost>
-
 ![alt tag](https://s29.postimg.org/l0fz8e9kn/httpd.png)
 
-phpMyAdmin
+<pre>6. Check and see if your phpMyAdmin is working</pre>
 
 ![alt tag](https://s28.postimg.org/fqht2zg5p/myadmin.png)
 
