@@ -1,7 +1,7 @@
 # Localhost Setup via Windows 10 & Mamp
 
-<pre>1. Install an IDE i.e.(NetBeans, Visual Studio, Atom, and etc.)
-<a href"https://atom.io/">https://atom.io/</a></pre>
+<pre>1. Install an IDE i.e.(NetBeans, Visual Studio, Atom, and etc.)</pre>
+<a href"https://atom.io/">https://atom.io/</a>
 
 ![alt tag](https://s30.postimg.org/3lh0b6cq9/atom.png)
 
@@ -18,12 +18,12 @@ or
 ![alt tag](https://s30.postimg.org/x5hm42co1/dbeaver.png)
 
 <pre>4. Open up C:\Windows\System32\drivers\etc\hosts in your IDE</pre>
-<pre>Add your host, as seen below</pre>
+<pre>Add your host, i.e(127.0.0.1   htmltest.local)</pre>
 ![alt tag](https://s24.postimg.org/uv08c6qw5/hosts.png)
 
-local host environment with virtual host via Windows 10 and Mamp
-
-![alt tag](https://s24.postimg.org/uv08c6qw5/hosts.png)
+<pre>5. Open up C:\Windows\System32\drivers\etc\hosts in your IDE</pre>
+<pre>Add your host, i.e(127.0.0.1   htmltest.local)</pre>
+![alt tag](https://s29.postimg.org/l0fz8e9kn/httpd.png)
 
 phpMyAdmin
 
