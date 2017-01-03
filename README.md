@@ -26,7 +26,6 @@ or
 ![alt tag](https://s29.postimg.org/l0fz8e9kn/httpd.png)
 
 <pre>6. Check and see if your phpMyAdmin is working</pre>
-
 ![alt tag](https://s28.postimg.org/fqht2zg5p/myadmin.png)
 
 ![alt tag](https://s24.postimg.org/mkd4n3tdx/admin.png)
